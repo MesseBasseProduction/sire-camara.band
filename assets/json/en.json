@@ -1,0 +1,15 @@
+{
+  "band": {
+    "name": "Band Name",
+    "desc": "This is your band's name description"
+  },
+  "listenLink": "Check the discography",
+  "treeLink": "Find us online",
+  "from": "from",
+  "listenOnline": "Listen online",
+  "seeMore": "see more",
+  "publishedOn": "Released on",
+  "composer": "Composer",
+  "author": "Author", 
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+}
