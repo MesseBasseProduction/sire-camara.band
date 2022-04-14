@@ -7,7 +7,7 @@
     }, {
       "type": "youtube",
       "name": "YouTube",
-      "url": "https://www.youtube.com/channel/UCKMz2XoRcvj-UL9ZvOu3fiQ/"
+      "url": "https://www.youtube.com/channel/UClnoNmHRKWlRrcK9FuuxZ9Q/"
     }, {
       "type": "spotify",
       "name": "Spotify",
@@ -29,13 +29,9 @@
       "name": "Tidal",
       "url": "https://listen.tidal.com/artist/4106598/"
     }, {
-      "type": "soundcloud",
-      "name": "SoundCloud",
-      "url": "https://soundcloud.com/baroquerie/"
-    }, {
       "type": "bandcamp",
       "name": "Bandcamp",
-      "url": "https://nacband.bandcamp.com/"
+      "url": "https://sirecamara.bandcamp.com/"
     }, {
       "type": "discogs",
       "name": "Discogs",
@@ -48,22 +44,6 @@
       "type": "musicbrainz",
       "name": "MusicBrainz",
       "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333/"
-    }, {
-      "type": "instagram",
-      "name": "Instagram",
-      "url": "https://www.instagram.com/messebasseproduction/"
-    }, {
-      "type": "flickr",
-      "name": "Flickr",
-      "url": "https://www.flickr.com/people/messebasseproduction/"
-    }, {
-      "type": "github",
-      "name": "GitHub",
-      "url": "https://github.com/MesseBasseProduction/"
-    }, {
-      "type": "linkedin",
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/company/77052847/"
     }
   ],
   "releases": [
