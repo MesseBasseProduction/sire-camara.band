@@ -161,6 +161,24 @@
     }
   }
 
+  .content {
+    height: 60rem;    
+  }
+
+  body[data-type=index] {
+    nav {
+      height: 33%;
+    }
+
+    .band-info {
+      padding: 0 5%;
+
+      h1 {
+        margin-top: 1em;        
+      }
+    }
+  }
+
   section.track-links {
     .listen-online {
       margin-bottom: 0;

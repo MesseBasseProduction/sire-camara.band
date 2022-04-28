@@ -3,7 +3,7 @@
     {
       "type": "facebook",
       "name": "Facebook",
-      "url": "https://www.facebook.com/theforgebandfr/"
+      "url": "https://www.facebook.com/sirecamaraband/"
     }, {
       "type": "youtube",
       "name": "YouTube",
@@ -99,10 +99,124 @@
         {
           "title": "Mets Ton Clignotant",
           "duration": "3:20",
-          "composer": "Siré Camara",
+          "composer": "Guelassiognon Bly, Siré Camara",
           "author": "Siré Camara"
         }
       ]
-    }
+    },
+    {
+      "title": "Vérité Volée",
+      "artist": "Siré Camara",
+      "cover": "Clignotant.webp",
+      "audio": "VéritéExtract.mp3",
+      "date": "09-11-2022",
+      "duration": "03:17",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/nac/1588180391/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/fr/artist/4239205/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/channel/UCKMz2XoRcvj-UL9ZvOu3fiQ/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/artist/4106598/"            
+        }, {
+          "type": "pandora",
+          "url": "https://github.com/MesseBasseProduction/"            
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Nac-fra/"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10054414-NAC-7/"            
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333/"            
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Vérité Volée",
+          "duration": "3:17",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    },
+    {
+      "title": "Stolen Truth",
+      "artist": "Siré Camara",
+      "cover": "Clignotant.webp",
+      "audio": "StolenExtract.mp3",
+      "date": "09-11-2022",
+      "duration": "03:15",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/nac/1588180391/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/fr/artist/4239205/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/channel/UCKMz2XoRcvj-UL9ZvOu3fiQ/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/artist/4106598/"            
+        }, {
+          "type": "pandora",
+          "url": "https://github.com/MesseBasseProduction/"            
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Nac-fra/"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10054414-NAC-7/"            
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333/"            
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Stolen Truth",
+          "duration": "3:15",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    }        
   ]
 }

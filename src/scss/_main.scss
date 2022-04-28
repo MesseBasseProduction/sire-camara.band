@@ -1,19 +1,38 @@
-.band-info {
-  text-align: center;
+body[data-type=index] {
+  overflow: auto;
 
-  img, h1, h2 {
-    margin-bottom: 2rem;
+  main {
+    background-image: radial-gradient(#4a4739 15%,#181818 80%);
+    display: inherit;
   }
 
-  img {
-    width: 20rem;
-  }
+  nav {
+    background-image: url(/assets/img/Siré-nav.jpg);
+    background-position: 50% 33%;
+    background-size: cover;
+    height: 50rem;
+    width: 100%;
+  }  
 
-  h1 {
-    font-size: 2.8rem;
-  }
-
-  h2 {
-    font-size: 2.2rem;
-  }
+  .band-info {
+    padding: 0 25%;
+    text-align: center;
+  
+    img, h1, h2 {
+      margin-bottom: 2rem;
+    }
+  
+    img {
+      width: 20rem;
+    }
+  
+    h1 {
+      font-size: 4.8rem;
+      margin-top: 1.8em;
+    }
+  
+    h2 {
+      font-size: 2.2rem;
+    }
+  }  
 }
