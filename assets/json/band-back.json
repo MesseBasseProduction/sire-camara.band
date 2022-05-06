@@ -1,0 +1,171 @@
+{
+  "links": [
+    {
+      "type": "facebook",
+      "name": "Facebook",
+      "url": "https://www.facebook.com/sirecamaraband/"
+    }, {
+      "type": "youtube",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/channel/UClnoNmHRKWlRrcK9FuuxZ9Q/"
+    }, {
+      "type": "spotify",
+      "name": "Spotify",
+      "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+    }, {
+      "type": "apple",
+      "name": "Apple Music",        
+      "url": "https://music.apple.com/us/artist/nac/1588180391/"
+    }, {
+      "type": "deezer",
+      "name": "Deezer",
+      "url": "https://www.deezer.com/fr/artist/4239205/"
+    }, {
+      "type": "amazon",
+      "name": "Amazon Music",
+      "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+    }, {
+      "type": "tidal",
+      "name": "Tidal",
+      "url": "https://listen.tidal.com/artist/4106598/"
+    }, {
+      "type": "bandcamp",
+      "name": "Bandcamp",
+      "url": "https://sirecamara.bandcamp.com/"
+    }, {
+      "type": "discogs",
+      "name": "Discogs",
+      "url": "https://www.discogs.com/artist/11183003-Sir%C3%A9-Camara"
+    }, {
+      "type": "genius",
+      "name": "Genius",
+      "url": "https://genius.com/artists/Sire-camara/"
+    }, {
+      "type": "musicbrainz",
+      "name": "MusicBrainz",
+      "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333/"
+    }
+  ],
+  "releases": [
+    {
+      "title": "Stolen Truth",
+      "artist": "Siré Camara",
+      "cover": "Stolen.webp",
+      "audio": "StolenExtract.mp3",
+      "date": "29-05-2022",
+      "duration": "06:33",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/stolen-truth-v-rit-vol-e/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""            
+        }, {
+          "type": "pandora",
+          "url": ""            
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Sire-camara/Stolen-truth-verite-volee"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23120456-Sir%C3%A9-Camara-Stolen-TruthV%C3%A9rit%C3%A9-Vol%C3%A9e"            
+        }, {
+          "type": "musicbrainz",
+          "url": ""            
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Stolen Truth",
+          "duration": "3:16",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        },
+        {
+          "title": "Vérité Volée",
+          "duration": "3:17",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }        
+      ]
+    },
+    {
+      "title": "Mets Ton Clignotant",
+      "artist": "Siré Camara",
+      "cover": "Clignotant.webp",
+      "audio": "ClignotantExtract.mp3",
+      "date": "19-05-2022",
+      "duration": "03:20",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/artist/nac/1588180391/"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/fr/artist/4239205/"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/channel/UCKMz2XoRcvj-UL9ZvOu3fiQ/"
+        }, {
+          "type": "bandcamp",
+          "url": "https://nacband.bandcamp.com/"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/artist/4106598/"            
+        }, {
+          "type": "pandora",
+          "url": "https://github.com/MesseBasseProduction/"            
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/artists/Nac-fra/"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/artist/10054414-NAC-7/"            
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333/"            
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Mets Ton Clignotant",
+          "duration": "3:20",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    }   
+  ]
+}
