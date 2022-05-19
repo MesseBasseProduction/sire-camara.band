@@ -35,13 +35,13 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/5RyaqbmHMgNv3YSjoFbQ35"
         }, {
           "type": "apple",
-          "url": ""
+          "url": "https://music.apple.com/album/stolen-truth/1622736211"
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.fr/albums/B09ZQJWL74"
         }, {
           "type": "deezer",
           "url": ""
