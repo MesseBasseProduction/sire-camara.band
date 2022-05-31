@@ -85,6 +85,120 @@
           "author": "Siré Camara"
         }        
       ]
+    },
+    {
+      "title": "Mets Ton Clignotant",
+      "artist": "Siré Camara",
+      "cover": "Clignotant.webp",
+      "audio": "ClignotantExtract.mp3",
+      "date": "12-06-2022",
+      "duration": "03:25",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=u0UIpTazzLM"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/mets-ton-clignotant"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""            
+        }, {
+          "type": "pandora",
+          "url": ""            
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/Sire-camara-mets-ton-clignotant-lyrics"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23411261-Sir%C3%A9-Camara-Mets-Ton-Clignotant"            
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Mets Ton Clignotant",
+          "duration": "3:20",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    },
+    {
+      "title": "Nous Sommes Le Mali",
+      "artist": "Siré Camara",
+      "cover": "Mali.webp",
+      "audio": "MaliExtract.mp3",
+      "date": "15-06-2022",
+      "duration": "03:43",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=GiFEzXR2DDg"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/nous-sommes-le-mali"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""            
+        }, {
+          "type": "pandora",
+          "url": ""            
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/Sire-camara-nous-sommes-le-mali-lyrics"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23411333-Sir%C3%A9-Camara-Nous-Sommes-Le-Mali"            
+        }, {
+          "type": "musicbrainz",
+          "url": ""            
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Nous Sommes Le Mali",
+          "duration": "3:43",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
     }  
   ]
 }
