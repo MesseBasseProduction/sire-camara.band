@@ -41,10 +41,10 @@
           "url": "https://music.apple.com/album/stolen-truth/1622736211"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09ZQJWL74"
+          "url": "https://music.amazon.com/albums/B09ZQJWL74"
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/album/324975387"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
@@ -56,7 +56,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""            
+          "url": "https://listen.tidal.com/album/232205294"            
         }, {
           "type": "pandora",
           "url": ""            
@@ -98,16 +98,16 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/200maFSFq7JMjoBxSXAnKT"
         }, {
           "type": "apple",
-          "url": ""
+          "url": "https://music.apple.com/album/mets-ton-clignotant-single/1627412724"
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0B2WD4BHP"
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/album/323943757"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=u0UIpTazzLM"
@@ -119,7 +119,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""            
+          "url": "https://listen.tidal.com/album/231737757"            
         }, {
           "type": "pandora",
           "url": ""            
