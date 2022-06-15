@@ -24,69 +24,62 @@
   ],
   "releases": [
     {
-      "title": "Stolen Truth",
+      "title": "Nous Sommes Le Mali",
       "artist": "Siré Camara",
-      "cover": "Stolen.webp",
-      "audio": "StolenExtract.mp3",
-      "date": "29-05-2022",
-      "duration": "06:33",
+      "cover": "Mali.webp",
+      "audio": "MaliExtract.mp3",
+      "date": "15-06-2022",
+      "duration": "03:43",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/5RyaqbmHMgNv3YSjoFbQ35"
+          "url": "https://open.spotify.com/album/6qCUoaRfR5CH53jFw4UJL9"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/stolen-truth/1622736211"
+          "url": "https://music.apple.com/album/nous-sommes-le-mali-single/1627680729"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.com/albums/B09ZQJWL74"
+          "url": "https://music.amazon.com/albums/B0B2ZWWDNS"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/album/324975387"
+          "url": "https://www.deezer.com/album/324164937"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
+          "url": "https://www.youtube.com/watch?v=GiFEzXR2DDg"
         }, {
           "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/stolen-truth-v-rit-vol-e/"
+          "url": "https://sirecamara.bandcamp.com/album/nous-sommes-le-mali"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/232205294"            
+          "url": "https://listen.tidal.com/album/231842460"
         }, {
           "type": "pandora",
-          "url": ""            
+          "url": ""
         }, {
           "type": "genius",
-          "url": "https://genius.com/albums/Sire-camara/Stolen-truth-verite-volee"            
+          "url": "https://genius.com/Sire-camara-nous-sommes-le-mali-lyrics"
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/23120456-Sir%C3%A9-Camara-Stolen-TruthV%C3%A9rit%C3%A9-Vol%C3%A9e"            
+          "url": "https://www.discogs.com/release/23411333-Sir%C3%A9-Camara-Nous-Sommes-Le-Mali"
         }, {
           "type": "musicbrainz",
-          "url": ""            
+          "url": ""
         }
       ],
       "tracks": [
         {
-          "title": "Stolen Truth",
-          "duration": "3:16",
+          "title": "Nous Sommes Le Mali",
+          "duration": "3:43",
           "composer": "Guelassiognon Bly, Siré Camara",
           "author": "Siré Camara"
-        },
-        {
-          "title": "Vérité Volée",
-          "duration": "3:17",
-          "composer": "Guelassiognon Bly, Siré Camara",
-          "author": "Siré Camara"
-        }        
+        }
       ]
-    },
-    {
+    }, {
       "title": "Mets Ton Clignotant",
       "artist": "Siré Camara",
       "cover": "Clignotant.webp",
@@ -119,16 +112,16 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/231737757"            
+          "url": "https://listen.tidal.com/album/231737757"
         }, {
           "type": "pandora",
-          "url": ""            
+          "url": ""
         }, {
           "type": "genius",
           "url": "https://genius.com/Sire-camara-mets-ton-clignotant-lyrics"
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/23411261-Sir%C3%A9-Camara-Mets-Ton-Clignotant"            
+          "url": "https://www.discogs.com/release/23411261-Sir%C3%A9-Camara-Mets-Ton-Clignotant"
         }, {
           "type": "musicbrainz",
           "url": ""
@@ -142,63 +135,68 @@
           "author": "Siré Camara"
         }
       ]
-    },
-    {
-      "title": "Nous Sommes Le Mali",
+    }, {
+      "title": "Stolen Truth",
       "artist": "Siré Camara",
-      "cover": "Mali.webp",
-      "audio": "MaliExtract.mp3",
-      "date": "15-06-2022",
-      "duration": "03:43",
+      "cover": "Stolen.webp",
+      "audio": "StolenExtract.mp3",
+      "date": "29-05-2022",
+      "duration": "06:33",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/5RyaqbmHMgNv3YSjoFbQ35"
         }, {
           "type": "apple",
-          "url": ""
+          "url": "https://music.apple.com/album/stolen-truth/1622736211"
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B09ZQJWL74"
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/album/324975387"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=GiFEzXR2DDg"
+          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
         }, {
           "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/nous-sommes-le-mali"
+          "url": "https://sirecamara.bandcamp.com/album/stolen-truth-v-rit-vol-e/"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""            
+          "url": "https://listen.tidal.com/album/232205294"
         }, {
           "type": "pandora",
-          "url": ""            
+          "url": ""
         }, {
           "type": "genius",
-          "url": "https://genius.com/Sire-camara-nous-sommes-le-mali-lyrics"            
+          "url": "https://genius.com/albums/Sire-camara/Stolen-truth-verite-volee"
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/23411333-Sir%C3%A9-Camara-Nous-Sommes-Le-Mali"            
+          "url": "https://www.discogs.com/release/23120456-Sir%C3%A9-Camara-Stolen-TruthV%C3%A9rit%C3%A9-Vol%C3%A9e"
         }, {
           "type": "musicbrainz",
-          "url": ""            
+          "url": ""
         }
       ],
       "tracks": [
         {
-          "title": "Nous Sommes Le Mali",
-          "duration": "3:43",
+          "title": "Stolen Truth",
+          "duration": "3:16",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        },
+        {
+          "title": "Vérité Volée",
+          "duration": "3:17",
           "composer": "Guelassiognon Bly, Siré Camara",
           "author": "Siré Camara"
         }
       ]
-    }  
+    }
   ]
 }
