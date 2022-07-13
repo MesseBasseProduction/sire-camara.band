@@ -9,6 +9,18 @@
       "name": "YouTube",
       "url": "https://www.youtube.com/channel/UClnoNmHRKWlRrcK9FuuxZ9Q/"
     }, {
+      "type": "spotify",
+      "name": "Spotify",
+      "url": "https://open.spotify.com/artist/2UjPUuirfFhU4jf93yA3qy"
+    }, {
+      "type": "apple",
+      "name": "Apple Music",
+      "url": "https://music.apple.com/artist/sir%C3%A9-camara/1622735518"
+    }, {
+      "type": "deezer",
+      "name": "Deezer",
+      "url": "https://www.deezer.com/artist/172059427"
+    }, {
       "type": "bandcamp",
       "name": "Bandcamp",
       "url": "https://sirecamara.bandcamp.com/"
@@ -24,6 +36,62 @@
   ],
   "releases": [
     {
+      "title": "Le Fleuve Sénégal",
+      "artist": "Siré Camara",
+      "cover": "Fleuve.webp",
+      "audio": "FleuveExtract.mp3",
+      "date": "13-07-2022",
+      "duration": "03:47",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/2L0GPMKR29x0F8tjhQ4Ech"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/le-fleuve-s%C3%A9n%C3%A9gal-single/1633828859"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0B62C46T8"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/334271997"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=E8HDldLok0k"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/le-fleuve-s-n-gal"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/236978683"
+        }, {
+          "type": "pandora",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/Sire-camara-le-fleuve-senegal-lyrics"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23777060-Sir%C3%A9-Camara-Le-Fleuve-S%C3%A9n%C3%A9gal"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Fle Fleuve Sénégal",
+          "duration": "3:47",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
       "title": "Nous Sommes Le Mali",
       "artist": "Siré Camara",
       "cover": "Mali.webp",
