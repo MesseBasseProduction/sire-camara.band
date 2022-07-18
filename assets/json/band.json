@@ -36,6 +36,62 @@
   ],
   "releases": [
     {
+      "title": "Souffrances Bafouées",
+      "artist": "Siré Camara",
+      "cover": "Souffrances.webp",
+      "audio": "SouffrancesExtract.mp3",
+      "date": "17-07-2022",
+      "duration": "04:29",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3KfhR7Hk0y0DVfzJ02pBmq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/souffrances-bafou%C3%A9es-single/1634944778"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0B6GQT9HB"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/336131577"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=lgijmpCDcDw"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/souffrances-bafou-es"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://listen.tidal.com/album/237761689"
+        }, {
+          "type": "pandora",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/Sire-camara-souffrances-bafouees-lyrics"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23797628-Sir%C3%A9-Camara-Souffrances-Bafou%C3%A9es"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Souffrances Bafouées",
+          "duration": "4:29",
+          "composer": "Doura Barry, Siré Camara, Stéphane de Talbodec",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
       "title": "Le Fleuve Sénégal",
       "artist": "Siré Camara",
       "cover": "Fleuve.webp",
@@ -85,7 +141,7 @@
       ],
       "tracks": [
         {
-          "title": "Fle Fleuve Sénégal",
+          "title": "Le Fleuve Sénégal",
           "duration": "3:47",
           "composer": "Guelassiognon Bly, Siré Camara",
           "author": "Siré Camara"
