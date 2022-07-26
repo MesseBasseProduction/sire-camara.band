@@ -36,6 +36,62 @@
   ],
   "releases": [
     {
+      "title": "Yitté",
+      "artist": "Yitté",
+      "cover": "Yitté.webp",
+      "audio": "YittéExtract.mp3",
+      "date": "28-07-2022",
+      "duration": "03:16",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=1St04LZnNss"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/yitt"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "pandora",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/23930765-Sir%C3%A9-Camara-Yitt%C3%A9"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Yitté",
+          "duration": "3:16",
+          "composer": "Bouyel Gaye, Guelassiognon Bly, Siré Camara",
+          "author": "Ibrahima Diagouraga"
+        }
+      ]
+    }, {
       "title": "Souffrances Bafouées",
       "artist": "Siré Camara",
       "cover": "Souffrances.webp",
