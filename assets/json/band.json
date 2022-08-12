@@ -36,12 +36,12 @@
   ],
   "releases": [
     {
-      "title": "Yitté",
-      "artist": "Yitté",
-      "cover": "Yitté.webp",
-      "audio": "YittéExtract.mp3",
-      "date": "28-07-2022",
-      "duration": "03:16",
+      "title": "Gbagbo, T'avais Raison",
+      "artist": "Siré Camara",
+      "cover": "Gbagbo.webp",
+      "audio": "GbagboExtract.mp3",
+      "date": "25-08-2022",
+      "duration": "04:04",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
       "links": [
@@ -59,6 +59,118 @@
           "url": ""
         }, {
           "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=dtF_-z8cCeo"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/gbagbo-tavais-raison"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "pandora",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24178685-Sir%C3%A9-Camara-Gbagbo-Tavais-Raison"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Gbagbo, T'avais Raison",
+          "duration": "4:04",
+          "composer": "Guelassiognon Bly",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
+      "title": "Diata",
+      "artist": "Siré Camara",
+      "cover": "Diata.webp",
+      "audio": "DiataExtract.mp3",
+      "date": "17-08-2022",
+      "duration": "03:57",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=hWm5-STJaFE"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/diata"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "pandora",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24013334-Sir%C3%A9-Camara-Diata"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Diata",
+          "duration": "3:57",
+          "composer": "Guelassiognon Bly, Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
+      "title": "Yitté",
+      "artist": "Siré Camara",
+      "cover": "Yitté.webp",
+      "audio": "YittéExtract.mp3",
+      "date": "28-07-2022",
+      "duration": "03:16",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6nz7bnNGNej8oXHlM7qy0f"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/album/yitt%C3%A9-single/1637339806"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.com/albums/B0B7DKYVTY"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/338708107"
+        }, {
+          "type": "youtube",
           "url": "https://www.youtube.com/watch?v=1St04LZnNss"
         }, {
           "type": "bandcamp",
@@ -68,7 +180,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""
+          "url": "https://listen.tidal.com/album/239213571"
         }, {
           "type": "pandora",
           "url": ""
