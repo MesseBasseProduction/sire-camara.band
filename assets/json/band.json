@@ -36,6 +36,59 @@
   ],
   "releases": [
     {
+      "title": "Sophie",
+      "artist": "Siré Camara",
+      "cover": "Sophie.webp",
+      "audio": "SophieExtract.mp3",
+      "date": "10-09-2022",
+      "duration": "03:40",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=q3yO_MjhXsg"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/sophie"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Sire-camara/Sophie"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24399611-Sir%C3%A9-Camara-Sophie"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Sophie",
+          "duration": "3:40",
+          "composer": "Siré Camara",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
       "title": "Gbagbo, T'avais Raison",
       "artist": "Siré Camara",
       "cover": "Gbagbo.webp",
@@ -100,16 +153,16 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/54wNjLu5F82nwx1sqCJR7u"
         }, {
           "type": "apple",
-          "url": ""
+          "url": "https://music.apple.com/album/diata-single/1640820150"
         }, {
           "type": "amazon",
           "url": ""
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/album/346328837"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=hWm5-STJaFE"
@@ -121,7 +174,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""
+          "url": "https://listen.tidal.com/album/242898372"
         }, {
           "type": "genius",
           "url": ""
