@@ -100,16 +100,16 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/3DXCSicAebQxPD2pPsf35c"
         }, {
           "type": "apple",
           "url": ""
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0BCZ4442H"
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/album/353382327"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=dtF_-z8cCeo"
@@ -121,7 +121,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""
+          "url": "https://listen.tidal.com/album/246456042"
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Sire-camara/Gbagbo-t-avais-raison"
@@ -159,7 +159,7 @@
           "url": "https://music.apple.com/album/diata-single/1640820150"
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0B9J2DBNM"
         }, {
           "type": "deezer",
           "url": "https://www.deezer.com/album/346328837"
@@ -230,7 +230,7 @@
           "url": "https://listen.tidal.com/album/239213571"
         }, {
           "type": "genius",
-          "url": ""
+          "url": "https://genius.com/Sire-camara-yitte-lyrics"
         }, {
           "type": "discogs",
           "url": "https://www.discogs.com/release/23930765-Sir%C3%A9-Camara-Yitt%C3%A9"
