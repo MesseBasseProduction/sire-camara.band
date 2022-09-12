@@ -47,16 +47,16 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/1oMzz3gu1w2tzWHHxwcXoq"
         }, {
           "type": "apple",
           "url": ""
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0BDRT9YL4"
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/album/355448877"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=q3yO_MjhXsg"
@@ -68,7 +68,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""
+          "url": "https://listen.tidal.com/album/247007224"
         }, {
           "type": "genius",
           "url": "https://genius.com/albums/Sire-camara/Sophie"
