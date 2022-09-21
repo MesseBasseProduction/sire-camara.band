@@ -36,6 +36,59 @@
   ],
   "releases": [
     {
+      "title": "Poutine",
+      "artist": "Siré Camara",
+      "cover": "Poutine.webp",
+      "audio": "PoutineExtract.mp3",
+      "date": "16-09-2022",
+      "duration": "04:28",
+      "label": "Siré Camara",
+      "labelLink": "https://sire-camara.band/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=RdLbvS-widk"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/poutine"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Sire-camara/Poutine"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24582425-Sir%C3%A9-Camara-Poutine"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Poutine",
+          "duration": "4:28",
+          "composer": "Guelassiognon Bly",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
       "title": "Sophie",
       "artist": "Siré Camara",
       "cover": "Sophie.webp",
@@ -50,7 +103,7 @@
           "url": "https://open.spotify.com/album/1oMzz3gu1w2tzWHHxwcXoq"
         }, {
           "type": "apple",
-          "url": ""
+          "url": "https://music.apple.com/album/sophie-single/1645703965"
         }, {
           "type": "amazon",
           "url": "https://music.amazon.com/albums/B0BDRT9YL4"
