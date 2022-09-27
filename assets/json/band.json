@@ -36,6 +36,59 @@
   ],
   "releases": [
     {
+      "title": "...​خ​ر​و​ف​ا م​ق​ا​ر​ن​ة مع",
+      "artist": "Siré Camara",
+      "cover": "PoutineVA.webp",
+      "audio": "PoutineVAExtract.mp3",
+      "date": "27-09-2022",
+      "duration": "04:28",
+      "label": "Siré Camara",
+      "labelLink": "https://sire-camara.band/",
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=xnd1bm0mYE4"
+        }, {
+          "type": "bandcamp",
+          "url": "https://sirecamara.bandcamp.com/album/-"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/24644603-Sir%C3%A9-Camara-%D8%AE%D8%B1%D9%88%D9%81%D8%A7-%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D9%85%D8%B9"
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "...​خ​ر​و​ف​ا م​ق​ا​ر​ن​ة مع",
+          "duration": "4:28",
+          "composer": "Guelassiognon Bly",
+          "author": "Siré Camara"
+        }
+      ]
+    }, {
       "title": "Poutine",
       "artist": "Siré Camara",
       "cover": "Poutine.webp",
@@ -53,7 +106,7 @@
           "url": ""
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0BGCTZZ63"
         }, {
           "type": "deezer",
           "url": "https://www.deezer.com/album/360228277"
