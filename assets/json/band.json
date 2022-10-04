@@ -47,16 +47,16 @@
       "links": [
         {
           "type": "spotify",
-          "url": ""
+          "url": "https://open.spotify.com/album/768Sm0AWlsfMvsK0UtvVTJ"
         }, {
           "type": "apple",
-          "url": ""
+          "url": "https://music.apple.com/us/album/%D8%AE-%D8%B1-%D9%88-%D9%81-%D8%A7-%D9%85-%D9%82-%D8%A7-%D8%B1-%D9%86-%D8%A9-%D9%85%D8%B9-single/1647870970"
         }, {
           "type": "amazon",
-          "url": ""
+          "url": "https://music.amazon.com/albums/B0BH2HVBYG"
         }, {
           "type": "deezer",
-          "url": ""
+          "url": "https://www.deezer.com/fr/album/362397957"
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=xnd1bm0mYE4"
@@ -68,7 +68,7 @@
       "moreLinks": [
         {
           "type": "tidal",
-          "url": ""
+          "url": "https://listen.tidal.com/album/251529415"
         }, {
           "type": "genius",
           "url": ""
