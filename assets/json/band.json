@@ -36,108 +36,108 @@
   ],
   "releases": [
     {
-      "title": "​خ​ر​و​ف​ا م​ق​ا​ر​ن​ة مع...",
+      "title": "Omotounde L'Enfant Béni",
       "artist": "Siré Camara",
-      "cover": "PoutineVA.webp",
-      "audio": "PoutineVAExtract.mp3",
-      "date": "27-09-2022",
-      "duration": "04:28",
-      "label": "Siré Camara",
-      "labelLink": "https://sire-camara.band/",
+      "cover": "Guid.webp",
+      "audio": "OmotExtract.mp3",
+      "date": "24-02-2024",
+      "duration": "03:34",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/768Sm0AWlsfMvsK0UtvVTJ"
+          "url": "https://open.spotify.com/album/4yLJnwLDpG4douVyVN4W1s"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/us/album/%D8%AE-%D8%B1-%D9%88-%D9%81-%D8%A7-%D9%85-%D9%82-%D8%A7-%D8%B1-%D9%86-%D8%A9-%D9%85%D8%B9-single/1647870970"
+          "url": "https://music.apple.com/us/album/omotounde-lenfant-b%C3%A9ni-single/1733110908"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0BH2HVBYG"
+          "url": "https://music.amazon.fr/albums/B0CWJM6KHP"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/362397957"
+          "url": "https://www.deezer.com/us/album/553573852"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=xnd1bm0mYE4"
+          "url": "https://www.youtube.com/watch?v=CQtmNrHCP9Y"
         }, {
           "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/-"
+          "url": "https://sirecamara.bandcamp.com/album/omotounde-lenfant-b-ni"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/251529415"
+          "url": "https://tidal.com/album/347644997"
         }, {
           "type": "genius",
           "url": ""
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/24644603-Sir%C3%A9-Camara-%D8%AE%D8%B1%D9%88%D9%81%D8%A7-%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9-%D9%85%D8%B9"
+          "url": "https://www.discogs.com/release/29882197-Sir%C3%A9-Camara-Omotounde-LEnfant-B%C3%A9ni"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release-group/5ab97902-d330-40e5-8b7b-917ef159e7fe"
         }
       ],
       "tracks": [
         {
-          "title": "​خ​ر​و​ف​ا م​ق​ا​ر​ن​ة مع...",
-          "duration": "4:28",
-          "composer": "Guelassiognon Bly",
+          "title": "Omotounde L'Enfant Béni",
+          "duration": "3:34",
+          "composer": "Chaloupé",
           "author": "Siré Camara"
         }
       ]
     }, {
-      "title": "Poutine",
+      "title": "Guidaniaxare",
       "artist": "Siré Camara",
-      "cover": "Poutine.webp",
-      "audio": "PoutineExtract.mp3",
-      "date": "16-09-2022",
-      "duration": "04:28",
-      "label": "Siré Camara",
-      "labelLink": "https://sire-camara.band/",
+      "cover": "Guid.webp",
+      "audio": "GuidExtract.mp3",
+      "date": "13-06-2023",
+      "duration": "03:52",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/5aXFUYFwYUrnbn95Z1Bq4Y"
+          "url": "https://open.spotify.com/album/0LWKtarJxRYrS9JYMrHKcF"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/poutine-single/1647266221"
+          "url": "https://music.apple.com/album/guidaniaxare-single/1692609569"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0BGCTZZ63"
+          "url": "https://music.amazon.fr/albums/B0C831HZ3R"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/album/360228277"
+          "url": "https://www.deezer.com/us/album/454030685"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=RdLbvS-widk"
+          "url": "https://www.youtube.com/watch?v=bVkwgp4G9Xg"
         }, {
           "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/poutine"
+          "url": "https://sirecamara.bandcamp.com/album/guidaniaxare"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/250315646"
+          "url": "https://tidal.com/album/299910882"
         }, {
           "type": "genius",
-          "url": "https://genius.com/albums/Sire-camara/Poutine"
+          "url": ""
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/24582425-Sir%C3%A9-Camara-Poutine"
+          "url": "https://www.discogs.com/release/27369213-Sir%C3%A9-Camara-Guidaniaxare"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release-group/1f8bc377-c50d-4493-9a0e-13b1dd453087"
         }
       ],
       "tracks": [
         {
-          "title": "Poutine",
-          "duration": "4:28",
-          "composer": "Guelassiognon Bly",
+          "title": "Guidaniaxare",
+          "duration": "3:52",
+          "composer": "Chaloupé",
           "author": "Siré Camara"
         }
       ]
@@ -162,7 +162,7 @@
           "url": "https://music.amazon.com/albums/B0BDRT9YL4"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/album/355448877"
+          "url": ""
         }, {
           "type": "youtube",
           "url": "https://www.youtube.com/watch?v=q3yO_MjhXsg"
@@ -183,7 +183,7 @@
           "url": "https://www.discogs.com/release/24399611-Sir%C3%A9-Camara-Sophie"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release-group/441b8fec-f659-41ab-847a-72e88eb49962"
         }
       ],
       "tracks": [
@@ -191,112 +191,6 @@
           "title": "Sophie",
           "duration": "3:40",
           "composer": "Siré Camara",
-          "author": "Siré Camara"
-        }
-      ]
-    }, {
-      "title": "Gbagbo, T'avais Raison",
-      "artist": "Siré Camara",
-      "cover": "Gbagbo.webp",
-      "audio": "GbagboExtract.mp3",
-      "date": "25-08-2022",
-      "duration": "04:04",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/3DXCSicAebQxPD2pPsf35c"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/gbagbo-tavais-raison-single/1645523658"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0BCZ4442H"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/353382327"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=dtF_-z8cCeo"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/gbagbo-tavais-raison"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/246456042"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Sire-camara/Gbagbo-t-avais-raison"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/24178685-Sir%C3%A9-Camara-Gbagbo-Tavais-Raison"
-        }, {
-          "type": "musicbrainz",
-          "url": ""
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Gbagbo, T'avais Raison",
-          "duration": "4:04",
-          "composer": "Guelassiognon Bly",
-          "author": "Siré Camara"
-        }
-      ]
-    }, {
-      "title": "Diata",
-      "artist": "Siré Camara",
-      "cover": "Diata.webp",
-      "audio": "DiataExtract.mp3",
-      "date": "17-08-2022",
-      "duration": "03:57",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/54wNjLu5F82nwx1sqCJR7u"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/diata-single/1640820150"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0B9J2DBNM"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/346328837"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=hWm5-STJaFE"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/diata"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/242898372"
-        }, {
-          "type": "genius",
-          "url": ""
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/24013334-Sir%C3%A9-Camara-Diata"
-        }, {
-          "type": "musicbrainz",
-          "url": ""
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Diata",
-          "duration": "3:57",
-          "composer": "Guelassiognon Bly, Siré Camara",
           "author": "Siré Camara"
         }
       ]
@@ -342,7 +236,7 @@
           "url": "https://www.discogs.com/release/23930765-Sir%C3%A9-Camara-Yitt%C3%A9"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release-group/78b658d5-4570-4e46-a498-92e51ea34e95"
         }
       ],
       "tracks": [
@@ -351,165 +245,6 @@
           "duration": "3:16",
           "composer": "Bouyel Gaye, Guelassiognon Bly, Siré Camara",
           "author": "Ibrahima Diagouraga"
-        }
-      ]
-    }, {
-      "title": "Souffrances Bafouées",
-      "artist": "Siré Camara",
-      "cover": "Souffrances.webp",
-      "audio": "SouffrancesExtract.mp3",
-      "date": "17-07-2022",
-      "duration": "04:29",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/3KfhR7Hk0y0DVfzJ02pBmq"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/souffrances-bafou%C3%A9es-single/1634944778"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0B6GQT9HB"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/336131577"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=lgijmpCDcDw"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/souffrances-bafou-es"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/237761689"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/Sire-camara-souffrances-bafouees-lyrics"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/23797628-Sir%C3%A9-Camara-Souffrances-Bafou%C3%A9es"
-        }, {
-          "type": "musicbrainz",
-          "url": ""
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Souffrances Bafouées",
-          "duration": "4:29",
-          "composer": "Doura Barry, Siré Camara, Stéphane de Talbodec",
-          "author": "Siré Camara"
-        }
-      ]
-    }, {
-      "title": "Le Fleuve Sénégal",
-      "artist": "Siré Camara",
-      "cover": "Fleuve.webp",
-      "audio": "FleuveExtract.mp3",
-      "date": "13-07-2022",
-      "duration": "03:47",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/2L0GPMKR29x0F8tjhQ4Ech"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/le-fleuve-s%C3%A9n%C3%A9gal-single/1633828859"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0B62C46T8"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/334271997"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=E8HDldLok0k"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/le-fleuve-s-n-gal"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/236978683"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/Sire-camara-le-fleuve-senegal-lyrics"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/23777060-Sir%C3%A9-Camara-Le-Fleuve-S%C3%A9n%C3%A9gal"
-        }, {
-          "type": "musicbrainz",
-          "url": ""
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Le Fleuve Sénégal",
-          "duration": "3:47",
-          "composer": "Guelassiognon Bly, Siré Camara",
-          "author": "Siré Camara"
-        }
-      ]
-    }, {
-      "title": "Nous Sommes Le Mali",
-      "artist": "Siré Camara",
-      "cover": "Mali.webp",
-      "audio": "MaliExtract.mp3",
-      "date": "15-06-2022",
-      "duration": "03:43",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/6qCUoaRfR5CH53jFw4UJL9"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/nous-sommes-le-mali-single/1627680729"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B0B2ZWWDNS"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/324164937"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=GiFEzXR2DDg"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/nous-sommes-le-mali"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/231842460"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/Sire-camara-nous-sommes-le-mali-lyrics"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/23411333-Sir%C3%A9-Camara-Nous-Sommes-Le-Mali"
-        }, {
-          "type": "musicbrainz",
-          "url": ""
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Nous Sommes Le Mali",
-          "duration": "3:43",
-          "composer": "Guelassiognon Bly, Siré Camara",
-          "author": "Siré Camara"
         }
       ]
     }, {
@@ -554,72 +289,13 @@
           "url": "https://www.discogs.com/release/23411261-Sir%C3%A9-Camara-Mets-Ton-Clignotant"
         }, {
           "type": "musicbrainz",
-          "url": ""
+          "url": "https://musicbrainz.org/release-group/a3fdc182-ca0e-4aec-a694-57933cc65f36"
         }
       ],
       "tracks": [
         {
           "title": "Mets Ton Clignotant",
           "duration": "3:20",
-          "composer": "Guelassiognon Bly, Siré Camara",
-          "author": "Siré Camara"
-        }
-      ]
-    }, {
-      "title": "Stolen Truth",
-      "artist": "Siré Camara",
-      "cover": "Stolen.webp",
-      "audio": "StolenExtract.mp3",
-      "date": "29-05-2022",
-      "duration": "06:33",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/5RyaqbmHMgNv3YSjoFbQ35"
-        }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/stolen-truth/1622736211"
-        }, {
-          "type": "amazon",
-          "url": "https://music.amazon.com/albums/B09ZQJWL74"
-        }, {
-          "type": "deezer",
-          "url": "https://www.deezer.com/album/324975387"
-        }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=5gBwgAVZy5w&list=PLFcJE-trJj_ZKBmkSBylgymwualuHxKle&index=1"
-        }, {
-          "type": "bandcamp",
-          "url": "https://sirecamara.bandcamp.com/album/stolen-truth-v-rit-vol-e/"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": "https://listen.tidal.com/album/232205294"
-        }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Sire-camara/Stolen-truth-verite-volee"
-        }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/23120456-Sir%C3%A9-Camara-Stolen-TruthV%C3%A9rit%C3%A9-Vol%C3%A9e"
-        }, {
-          "type": "musicbrainz",
-          "url": ""
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Stolen Truth",
-          "duration": "3:16",
-          "composer": "Guelassiognon Bly, Siré Camara",
-          "author": "Siré Camara"
-        },
-        {
-          "title": "Vérité Volée",
-          "duration": "3:17",
           "composer": "Guelassiognon Bly, Siré Camara",
           "author": "Siré Camara"
         }
